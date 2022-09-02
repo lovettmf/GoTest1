@@ -1,1 +1,6 @@
+To execute first program:  go run Question1.go x
+
+To execute second program:  go run Question2.go x
+
+This does not appear to match the Big(O) expectations. Stable sort should take more time than the normal sort
 
